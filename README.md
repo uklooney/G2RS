@@ -1,7 +1,7 @@
 # G2RS
 Use Your Guitar to Control Rocksmith
 
-Navigation through and play Rocksmith 2014 without every having to use your keyboard or mouse. Simply play the relevant notes on your guitar to control the inputs.
+Navigation through and play Rocksmith 2014 without every having to use your keyboard or mouse. Simply play the relevant notes on your guitar to control the game inputs.
 
 See Reddit thread for more info...
 
